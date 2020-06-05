@@ -1,5 +1,6 @@
 <?php
-
+// 変更したよ
+// 反映されるかな
 function connect_to_db()
 {
     $dbn = 'mysql:dbname=gsacf_l03_05;charset=utf8;port=3306;host=localhost';
